@@ -2,6 +2,13 @@
 
 This project is a REST API for managing restaurant data using Node.js, Express, and MongoDB.
 
+## Technologies Used
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- dotenv
+
 ## Getting Started
 
 ### Prerequisites
