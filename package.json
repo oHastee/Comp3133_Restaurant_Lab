@@ -1,10 +1,26 @@
 {
-  "name": "Comp3133_Restaurant_Lab",
+  "name": "comp3133_restaurant_lab",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "private": true
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oHastee/Comp3133_Restaurant_Lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oHastee/Comp3133_Restaurant_Lab/issues"
+  },
+  "homepage": "https://github.com/oHastee/Comp3133_Restaurant_Lab#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.5"
+  }
 }
